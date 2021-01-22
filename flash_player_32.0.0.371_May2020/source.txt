@@ -1,0 +1,7 @@
+These files downloaded from web archive
+
+ActiveX: https://web.archive.org/web/20200516155502/https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe
+NPAPI: https://web.archive.org/web/2020052117103/https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
+PPAPI: https://web.archive.org/web/20200516003347/https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe
+
+(these get version 32.0.0.371 which is the last version that DOESN'T contain the Adobe kill-switch)
