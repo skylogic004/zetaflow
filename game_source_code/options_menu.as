@@ -15,10 +15,13 @@ for (var m=0; m < movingBox.getLength(); m++) {
 	}
 }
 
-function aimingHandler() {
+aimingBox.setChangeHandler("aimingHandler");
+function aimingHandler(component) {
 	_root.key_aim = aimingBox.getValue();
 }
-function movingHandler() {
+
+movingBox.setChangeHandler("movingHandler");
+function movingHandler(component) {
 	_root.key_move = movingBox.getValue();
 }
 
