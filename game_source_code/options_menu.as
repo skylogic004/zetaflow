@@ -15,15 +15,6 @@ for (var m=0; m < movingBox.getLength(); m++) {
 	}
 }
 
-aimingBox.setChangeHandler("aimingHandler");
-function aimingHandler(component) {
-	_root.key_aim = aimingBox.getValue();
-}
-
-movingBox.setChangeHandler("movingHandler");
-function movingHandler(component) {
-	_root.key_move = movingBox.getValue();
-}
 
 //Keyboard binding (text and buttons):
 var isBindAll=false;
